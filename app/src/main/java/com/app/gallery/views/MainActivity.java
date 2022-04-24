@@ -7,9 +7,9 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import androidx.lifecycle.ViewModelProvider;
 
+import com.app.gallery.databinding.ActivityMainBinding;
 import com.app.gallery.views.adapter.RecyclerViewAdapter;
 import com.app.gallery.viewModels.GalleryViewModel;
-import com.app.newgallaryapp.databinding.ActivityMainBinding;
 
 public class MainActivity extends AppCompatActivity {
     ActivityMainBinding binding;
